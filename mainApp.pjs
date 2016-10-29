@@ -1,0 +1,7 @@
+/**
+ * New node file
+ */
+console.log('Hello, world!');
+
+phantom.exit();
+
